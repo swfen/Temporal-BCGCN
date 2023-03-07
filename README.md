@@ -2,6 +2,7 @@
 Temporal_CONV and Catroy_Pool for GCN
 
 This project is based on one of our studies for medical image analysis
+
 In this research we have developed a convolution kernel and a pooling kernel based on GNN.
 
 Here we provide the module code for this convolutional pooling kernel
