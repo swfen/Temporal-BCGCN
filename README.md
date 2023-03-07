@@ -9,4 +9,4 @@ Here we provide the module code for this convolutional pooling kernel
 
 The project follows the Pytorch library at https://pytorch-geometric.readthedocs.io/en/latest/
 
-If you want to run the project directly, it is recommended that you follow the settings of the library
+If you want to run the project directly, it is recommended that you follow the settings of this library
