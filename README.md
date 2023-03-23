@@ -13,3 +13,5 @@ Here we provide the module code for this convolutional pooling kernel
 The project follows the Pytorch library at https://pytorch-geometric.readthedocs.io/en/latest/
 
 If you want to run the project directly, it is recommended that you follow the settings of this library
+
+This convolution and pooling kernel does not fit only in our model architecture, so we are publishing the modular source code directly, rather than the full code of the paper, for your better use and learning, but if you are interested, we have published the paper in
