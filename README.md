@@ -1,9 +1,12 @@
 # Temporal_CONV and Catroy_Pool
+
 Temporal_CONV and Catroy_Pool for GCN
 
 This project is based on one of our studies for medical image analysis
 
-In this research we have developed a convolution kernel and a pooling kernel based on GNN.
+These two modular approaches are an important part of our model Temporal Brain Category Graph Convolutional Network (Temporal-BCGCN)
+
+In this research we have developed a convolution kernel and a pooling kernel based on GCN.
 
 Here we provide the module code for this convolutional pooling kernel
 
