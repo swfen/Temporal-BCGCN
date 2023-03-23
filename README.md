@@ -19,3 +19,6 @@ This convolution and pooling kernel does not fit only in our model architecture,
 Next we will talk about the detailed logic and content of Temporal_CONV and Catroy_Pool in blocks
 
 # Temporal_CONV
+
+
+# Catroy_Pool
