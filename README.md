@@ -1,6 +1,7 @@
 # Temporal_CONV and Catroy_Pool for GCN
 
-This project is based on one of our studies for medical image analysis.We believe that the former provides a new reference for subsequent researchers to perform graph convolution for rs-fMRI as well as other time-series data.The latter has a strong generalizability and can be transferred to other medical research fields.
+This project is based on one of our studies for medical image analysis.
+We believe that the former provides a new reference for subsequent researchers to perform graph convolution for rs-fMRI as well as other time-series data.And the latter has a strong generalizability and can be transferred to other medical research fields.
 
 TemporalConv convolves data features independently for each slice
 CategoryPool is a test tool for Abnormal hemispherical lateralization
