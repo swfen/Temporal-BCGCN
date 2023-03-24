@@ -25,6 +25,8 @@ Fig.1. Comparison of ECConv and TemporalConv convolution processes: (a) Schemati
 
 ![1679636921124](https://user-images.githubusercontent.com/33822380/227435924-5cec594e-acee-4ea5-94dc-25a84bb5cfaf.png)
 
+![1679637536097](https://user-images.githubusercontent.com/33822380/227437308-0cf7b40f-98ec-4ffa-8a72-d53b4d48195d.png)
+
 # Catroy_Pool
 
 ![image](https://user-images.githubusercontent.com/33822380/227434018-82d21020-77c8-4aea-88a5-9e79a54986ce.png)
