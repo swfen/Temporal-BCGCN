@@ -20,5 +20,11 @@ Next we will talk about the detailed logic and content of Temporal_CONV and Catr
 
 # Temporal_CONV
 
+![image](https://user-images.githubusercontent.com/33822380/227433968-3cf190c7-cc3b-499e-8a67-42ba5d344264.png)
+Fig.1. Comparison of ECConv and TemporalConv convolution processes: (a) Schematic diagram of DSF-BrainNet. (b) Convolution process of applying ECConv to DSF-BrainNet. (c) Convolution process of applying TemporalConv to DSF-BrainNet.
 
 # Catroy_Pool
+
+![image](https://user-images.githubusercontent.com/33822380/227434018-82d21020-77c8-4aea-88a5-9e79a54986ce.png)
+Fig.2. CategoryPool Process Diagram
+
