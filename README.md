@@ -1,6 +1,7 @@
 # Temporal_CONV and Catroy_Pool for GCN
 
 This project is based on one of our studies for medical image analysis.
+
 We believe Temporal_CONV opens a new way for GNN to process time series information. And Catroy_Pool has a strong generalizability and can be transferred to other medical research fields.
 
 TemporalConv convolves data features independently for each slice
