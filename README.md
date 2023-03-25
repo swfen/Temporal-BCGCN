@@ -22,6 +22,7 @@ This convolution and pooling kernel does not fit only in our model architecture,
 Next we will talk about the detailed logic and content of Temporal_CONV and Catroy_Pool in blocks
 
 # Temporal_CONV
+![1679716832128](https://user-images.githubusercontent.com/33822380/227692606-1741e6fb-d82b-419c-ab9c-3195a8e97a41.png)
 
 ![image](https://user-images.githubusercontent.com/33822380/227433968-3cf190c7-cc3b-499e-8a67-42ba5d344264.png)
 Fig.1. Comparison of ECConv and TemporalConv convolution processes: (a) Schematic diagram of DSF-BrainNet. (b) Convolution process of applying ECConv to DSF-BrainNet. (c) Convolution process of applying TemporalConv to DSF-BrainNet.
