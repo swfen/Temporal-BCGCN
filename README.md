@@ -39,7 +39,7 @@ Fig.2. CategoryPool Process Diagram
 
 # Ablation Experiment
 
-![1679716832128](https://user-images.githubusercontent.com/33822380/227692606-1741e6fb-d82b-419c-ab9c-3195a8e97a41.png)
+![1679739071657](https://user-images.githubusercontent.com/33822380/227710975-5d4908a1-173e-46de-aec6-6d9eaa499df4.png)
 
 ![1679739001101](https://user-images.githubusercontent.com/33822380/227710912-b541da63-f142-4d8a-b63c-da0a85be9845.png)
 
