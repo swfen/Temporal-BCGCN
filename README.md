@@ -11,6 +11,7 @@ CategoryPool is a test tool for Abnormal hemispherical lateralization
 These two modular approaches are an important part of our model Temporal Brain Category Graph Convolutional Network (Temporal-BCGCN)
 
 In this research we have developed a convolution kernel and a pooling kernel based on GCN. This convolution and pooling kernel does not fit only in our model architecture, so we are publishing the modular source code directly, rather than the full code of the paper. 
+
 for your better use and learning, please read the paper in https://arxiv.org/abs/2304.01347
 
 The project follows the Pytorch library at https://pytorch-geometric.readthedocs.io/en/latest/
