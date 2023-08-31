@@ -10,36 +10,9 @@ CategoryPool is a test tool for Abnormal hemispherical lateralization
 
 These two modular approaches are an important part of our model Temporal Brain Category Graph Convolutional Network (Temporal-BCGCN)
 
-In this research we have developed a convolution kernel and a pooling kernel based on GCN. This convolution and pooling kernel does not fit only in our model architecture, so we are publishing the modular source code directly, rather than the full code of the paper, for your better use and learning, but if you are interested, we have published the paper in https://arxiv.org/abs/2304.01347
+In this research we have developed a convolution kernel and a pooling kernel based on GCN. This convolution and pooling kernel does not fit only in our model architecture, so we are publishing the modular source code directly, rather than the full code of the paper. 
+for your better use and learning, please read the paper in https://arxiv.org/abs/2304.01347
 
 The project follows the Pytorch library at https://pytorch-geometric.readthedocs.io/en/latest/
 
 If you want to run the project directly, it is recommended that you follow the settings of this library
-
-Next we will talk about the detailed logic and content of Temporal_CONV and Catroy_Pool in blocks
-
-# Temporal_CONV
-![1679716832128](https://user-images.githubusercontent.com/33822380/227692606-1741e6fb-d82b-419c-ab9c-3195a8e97a41.png)
-
-![image](https://user-images.githubusercontent.com/33822380/227433968-3cf190c7-cc3b-499e-8a67-42ba5d344264.png)
-Fig.1. Comparison of ECConv and TemporalConv convolution processes: (a) Schematic diagram of DSF-BrainNet. (b) Convolution process of applying ECConv to DSF-BrainNet. (c) Convolution process of applying TemporalConv to DSF-BrainNet.
-
-![1679739209554](https://user-images.githubusercontent.com/33822380/227711065-ebcdfeeb-1919-4395-8a5c-2cb73e5776b5.png)
-
-![1679637536097](https://user-images.githubusercontent.com/33822380/227437308-0cf7b40f-98ec-4ffa-8a72-d53b4d48195d.png)
-
-# Catroy_Pool
-
-![image](https://user-images.githubusercontent.com/33822380/227434018-82d21020-77c8-4aea-88a5-9e79a54986ce.png)
-Fig.2. CategoryPool Process Diagram
-
-![1679637388430](https://user-images.githubusercontent.com/33822380/227436716-1529a172-2d62-42e0-8aee-dfaee9d2e8f0.png)
-
-![1679637349821](https://user-images.githubusercontent.com/33822380/227436678-c758b86d-d97d-4333-ae28-e067fd039195.png)
-
-# Ablation Experiment
-
-![1679739071657](https://user-images.githubusercontent.com/33822380/227710975-5d4908a1-173e-46de-aec6-6d9eaa499df4.png)
-
-![1679739001101](https://user-images.githubusercontent.com/33822380/227710912-b541da63-f142-4d8a-b63c-da0a85be9845.png)
-
