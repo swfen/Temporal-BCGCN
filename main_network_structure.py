@@ -12,7 +12,7 @@ edge_input_dim = rang
 retain_node = 10
 Tendency = 0.7
 
-class ECC(torch.nn.Module):  # ECC  alias of NNConv
+class Temporal_BCGCN(torch.nn.Module):  # ECC  alias of NNConv
     def __init__(self, node_input_dim, batch_size):
         super(ECC, self).__init__()
         torch.manual_seed(12)
@@ -58,6 +58,6 @@ class ECC(torch.nn.Module):  # ECC  alias of NNConv
 
 
 device = torch.device('cuda:0')
-model = ECC(node_input_dim, train_loader.batch_size).to(device)
+model = Temporal_BCGCN(node_input_dim, train_loader.batch_size).to(device)
 optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
 criterion = torch.nn.BCELoss().to(device)
