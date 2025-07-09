@@ -14,7 +14,7 @@ Tendency = 0.7
 
 class Temporal_BCGCN(torch.nn.Module):  # ECC  alias of NNConv
     def __init__(self, node_input_dim, batch_size):
-        super(ECC, self).__init__()
+        super(Temporal_BCGCN, self).__init__()
         torch.manual_seed(12)
 
         self.conv1 = TemporalConv(node_input_dim, node_input_dim, node_num, batch_size)
